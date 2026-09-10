@@ -1,4 +1,8 @@
-**#Number Guessing Game 🎯**
+# Python Daily Projects
+A collection of small Python projects built as part of my daily coding practice.
+## Projects
+
+**#Day 01-Number Guessing Game 🎯**
 A simple Python command-line game where the computer randomly selects a number between 1 and 100, and the player tries to guess it.
 
 **##Features**
@@ -17,5 +21,7 @@ A simple Python command-line game where the computer randomly selects a number b
 ```bash
 python number_guessing_game.py
 
+**## Day 02-Calculator**
+A simple calculator that performs addition, subtraction, multiplication, and division
 
 
