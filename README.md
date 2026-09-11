@@ -24,4 +24,8 @@ python number_guessing_game.py
 **## Day 02-Calculator**
 A simple calculator that performs addition, subtraction, multiplication, and division
 
+## Day 03 - Rock Paper Scissors
+A simple command-line game where the user plays Rock Paper Scissors against the computer.
+
+
 
