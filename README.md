@@ -27,5 +27,6 @@ A simple calculator that performs addition, subtraction, multiplication, and div
 ## Day 03 - Rock Paper Scissors
 A simple command-line game where the user plays Rock Paper Scissors against the computer.
 
-
+## Day 04 - Password Generator
+A simple Python program that generates a random password based on the length provided by the user.
 
