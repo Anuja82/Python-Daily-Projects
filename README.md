@@ -30,3 +30,6 @@ A simple command-line game where the user plays Rock Paper Scissors against the 
 ## Day 04 - Password Generator
 A simple Python program that generates a random password based on the length provided by the user.
 
+## Day 06 - Expense Tracker
+A simple Python command-line application to add expenses, and calculate total spending
+
