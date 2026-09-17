@@ -33,3 +33,6 @@ A simple Python program that generates a random password based on the length pro
 ## Day 06 - Expense Tracker
 A simple Python command-line application to add expenses, and calculate total spending
 
+##Day 07 - Contact Book
+A simple Python command-line contact book that allows users to add, view, search, and delete contacts.
+
