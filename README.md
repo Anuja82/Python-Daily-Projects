@@ -41,3 +41,6 @@ A simple Python command-line contact book that allows users to add, view, search
 
 ## Day 08 - Student Grade Calculator
 A Python program that calculates a student's total marks, average, and grade based on marks entered for five subjects.
+
+## Day 09 - Find Largest Number
+A simple DSA problem that finds the largest number in a list without using Python's built-in max() function.
