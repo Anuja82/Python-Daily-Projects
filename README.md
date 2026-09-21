@@ -44,3 +44,7 @@ A Python program that calculates a student's total marks, average, and grade bas
 
 ## Day 09 - Find Largest Number
 A simple DSA problem that finds the largest number in a list without using Python's built-in max() function.
+
+## Day 10 - Word Counter
+A Python program that counts the words, characters, vowels, and consonants in a given sentence.
+
