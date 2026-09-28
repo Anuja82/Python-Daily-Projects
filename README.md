@@ -38,3 +38,7 @@ A DSA problem that checks whether a given string reads the same forward and back
 ## Day  12 - Inventory Manager
 A Python command-line inventory system that allows users to add, view, search, update, and delete products.
 
+## Day 13 - Frequency Counter
+A DSA problem that counts how many times each element appears in a list using a Python dictionary.
+
+
