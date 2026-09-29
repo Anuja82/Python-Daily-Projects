@@ -41,4 +41,5 @@ A Python command-line inventory system that allows users to add, view, search, u
 ## Day 13 - Frequency Counter
 A DSA problem that counts how many times each element appears in a list using a Python dictionary.
 
-
+## Day 14 - Password Strength Checker
+A simple Python program that checks password strength based on length, uppercase and lowercase letters, numbers, and special characters.
