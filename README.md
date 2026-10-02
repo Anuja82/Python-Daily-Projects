@@ -43,3 +43,6 @@ A DSA problem that counts how many times each element appears in a list using a 
 
 ## Day 14 - Password Strength Checker
 A simple Python program that checks password strength based on length, uppercase and lowercase letters, numbers, and special characters.
+
+## Day 15 - Remove Duplicates
+A DSA Problem that removes duplicate elements from a list while maintaining the original order of the numbers.
