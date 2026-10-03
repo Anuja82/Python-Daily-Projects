@@ -48,4 +48,7 @@ A simple Python program that checks password strength based on length, uppercase
 A Python command-line ATM system that allows users to check their balance, deposit money, withdraw money, and exit the application.
 
 ## Day 16 - Remove Duplicates
-A DSA Problem that removes duplicate elements from a list while maintaining the original order of the numbers.
+A DSA problem that removes duplicate elements from a list while maintaining the original order of the numbers.
+
+## Day 17 - Number Analyzer
+A Python program that analyzes a list of numbers by calculating the total, sum, average, largest and smallest values, and separating even and odd numbers.
