@@ -20,7 +20,7 @@ A simple Python quiz game that asks multiple questions, checks the user's answer
 ## Day 06 - Expense Tracker
 A simple Python command-line application to add expenses, and calculate total spending
 
-##Day 07 - Contact Book
+## Day 07 - Contact Book
 A simple Python command-line contact book that allows users to add, view, search, and delete contacts.
 
 ## Day 08 - Student Grade Calculator
