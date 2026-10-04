@@ -52,3 +52,6 @@ A DSA problem that removes duplicate elements from a list while maintaining the 
 
 ## Day 17 - Number Analyzer
 A Python program that analyzes a list of numbers by calculating the total, sum, average, largest and smallest values, and separating even and odd numbers.
+
+## Day 18 - Second Largest Number
+A DSA problem that finds the second largest unique number in a list without using Python's built-in sort() function.
