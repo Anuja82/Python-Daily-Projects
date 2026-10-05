@@ -55,3 +55,6 @@ A Python program that analyzes a list of numbers by calculating the total, sum, 
 
 ## Day 18 - Second Largest Number
 A DSA problem that finds the second largest unique number in a list without using Python's built-in sort() function.
+
+## Day 19 - URL Shortener
+
