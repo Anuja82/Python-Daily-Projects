@@ -57,4 +57,4 @@ A Python program that analyzes a list of numbers by calculating the total, sum, 
 A DSA problem that finds the second largest unique number in a list without using Python's built-in sort() function.
 
 ## Day 19 - URL Shortener
-
+A Python command-line URL shortener simulator that generates unique short codes, stores URLs, displays saved URLs, and retrieves original URLs using their short codes.
