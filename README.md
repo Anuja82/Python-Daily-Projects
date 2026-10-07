@@ -58,3 +58,6 @@ A DSA problem that finds the second largest unique number in a list without usin
 
 ## Day 19 - URL Shortener
 A Python command-line URL shortener simulator that generates unique short codes, stores URLs, displays saved URLs, and retrieves original URLs using their short codes.
+
+## Day 20 - Move Zeros
+A DSA problem that moves all zero elements to the end of a list while maintaining the original order of the non-zero elements.
