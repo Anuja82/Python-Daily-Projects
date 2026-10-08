@@ -60,4 +60,8 @@ A DSA problem that finds the second largest unique number in a list without usin
 A Python command-line URL shortener simulator that generates unique short codes, stores URLs, displays saved URLs, and retrieves original URLs using their short codes.
 
 ## Day 20 - Move Zeros
-A DSA problem that moves all zero elements to the end of a list while maintaining the original order of the non-zero elements.
+A DSA problem that moves all zero elements to the end of a list while maintaining the original order of the non-zero elements
+
+## Day 21 - Notes Manager
+A Python file-based notes manager that allows users to add, view, search, and delete notes while storing them in a text file for persistent data.
+
