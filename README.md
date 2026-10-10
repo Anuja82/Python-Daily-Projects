@@ -65,3 +65,6 @@ A DSA problem that moves all zero elements to the end of a list while maintainin
 ## Day 21 - Notes Manager
 A Python file-based notes manager that allows users to add, view, search, and delete notes while storing them in a text file for persistent data.
 
+## Day 22 - Missing Number
+A DSA problem that finds the missing number in a sequence from 1 to n using the expected sum formula and Python's sum() function.
+
