@@ -68,3 +68,5 @@ A Python file-based notes manager that allows users to add, view, search, and de
 ## Day 22 - Missing Number
 A DSA problem that finds the missing number in a sequence from 1 to n using the expected sum formula and Python's sum() function.
 
+## Day 23 - Anagram Checker
+A Python program that checks whether two words are anagrams by comparing their sorted characters, ignoring case and spaces.
