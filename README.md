@@ -70,3 +70,6 @@ A DSA problem that finds the missing number in a sequence from 1 to n using the 
 
 ## Day 23 - Anagram Checker
 A Python program that checks whether two words are anagrams by comparing their sorted characters, ignoring case and spaces.
+
+## Day 24 - Typing Speed Tester
+A Python program that measures typing speed in words per minute(WPM) by timing how quickly a user types a randomly selected sentence.
