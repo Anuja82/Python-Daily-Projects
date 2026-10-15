@@ -73,3 +73,6 @@ A Python program that checks whether two words are anagrams by comparing their s
 
 ## Day 24 - Typing Speed Tester
 A Python program that measures typing speed in words per minute(WPM) by timing how quickly a user types a randomly selected sentence.
+
+## Day 25 - Binary Search
+A Python DSA program that searches for a target number in a sorted list using binary search and returns its index.
