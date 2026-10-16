@@ -76,3 +76,6 @@ A Python program that measures typing speed in words per minute(WPM) by timing h
 
 ## Day 25 - Binary Search
 A Python DSA program that searches for a target number in a sorted list using binary search and returns its index.
+
+## Day 26 - Merge Two Sorted Lists
+A Python DSA program that merges two sorted lists into a single sorted list using the two-pointer technique.
