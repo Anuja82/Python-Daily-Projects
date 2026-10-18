@@ -79,3 +79,6 @@ A Python DSA program that searches for a target number in a sorted list using bi
 
 ## Day 26 - Merge Two Sorted Lists
 A Python DSA program that merges two sorted lists into a single sorted list using the two-pointer technique.
+
+## Day 27 - Rotate a List by K Positions
+A Python DSA program that rotates a list to the right by a specified number of positions using list slicing.
