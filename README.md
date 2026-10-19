@@ -82,3 +82,7 @@ A Python DSA program that merges two sorted lists into a single sorted list usin
 
 ## Day 27 - Rotate a List by K Positions
 A Python DSA program that rotates a list to the right by a specified number of positions using list slicing.
+
+## Day 28 - Maximum Subarray Sum
+A Python DSA program that uses Kadane's algorithm to find the maximum sum of a contiguous subarray in a list of integers.
+
