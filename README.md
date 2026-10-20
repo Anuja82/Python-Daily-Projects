@@ -86,3 +86,6 @@ A Python DSA program that rotates a list to the right by a specified number of p
 ## Day 28 - Maximum Subarray Sum
 A Python DSA program that uses Kadane's algorithm to find the maximum sum of a contiguous subarray in a list of integers.
 
+## Day 29 - Longest Consecutive Sequence
+A Python DSA program that uses a set to find the length of the longest consecutive sequence of numbers in a list without sorting.
+
