@@ -89,3 +89,5 @@ A Python DSA program that uses Kadane's algorithm to find the maximum sum of a c
 ## Day 29 - Longest Consecutive Sequence
 A Python DSA program that uses a set to find the length of the longest consecutive sequence of numbers in a list without sorting.
 
+## Day 30 - Valid Parentheses
+A Python DSA program that uses a stack to check whether parentheses and brackets are correctly balanced and properly nested.
