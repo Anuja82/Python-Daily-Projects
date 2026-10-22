@@ -91,3 +91,6 @@ A Python DSA program that uses a set to find the length of the longest consecuti
 
 ## Day 30 - Valid Parentheses
 A Python DSA program that uses a stack to check whether parentheses and brackets are correctly balanced and properly nested.
+
+## Day 31 - First Non-Repeating Character
+A Python DSA program that finds the first character in a string that appears only once.
