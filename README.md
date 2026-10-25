@@ -94,3 +94,6 @@ A Python DSA program that uses a stack to check whether parentheses and brackets
 
 ## Day 31 - First Non-Repeating Character
 A Python DSA program that finds the first character in a string that appears only once.
+
+## Day 32 - Shopping Bill Calculator
+A Python program that calculates shopping expenses, displays purchased items and their prices, and applies a 10% discount when the total reaches Rs.1000.
