@@ -97,3 +97,6 @@ A Python DSA program that finds the first character in a string that appears onl
 
 ## Day 32 - Shopping Bill Calculator
 A Python program that calculates shopping expenses, displays purchased items and their prices, and applies a 10% discount when the total reaches Rs.1000.
+
+## Day 33 - Electricity Bill Calculator
+A Python program that calculates an electricity bill based on the number of units consumed using conditional statements and different example rate slabs.
