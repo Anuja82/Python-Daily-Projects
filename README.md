@@ -100,3 +100,6 @@ A Python program that calculates shopping expenses, displays purchased items and
 
 ## Day 33 - Electricity Bill Calculator
 A Python program that calculates an electricity bill based on the number of units consumed using conditional statements and different example rate slabs.
+
+## Day 34 - Personal Expense Analyzer
+A Python program that groups expenses by category, calculates total spending, displays category-wise percentages, and identifies the highest spending category using dictionaries and built-in functions.
