@@ -103,3 +103,6 @@ A Python program that calculates an electricity bill based on the number of unit
 
 ## Day 34 - Personal Expense Analyzer
 A Python program that groups expenses by category, calculates total spending, displays category-wise percentages, and identifies the highest spending category using dictionaries and built-in functions.
+
+## Day 35 - Library Book Search System
+A Python program that searches a list of library books using partial or complete book names and displays matching results.
